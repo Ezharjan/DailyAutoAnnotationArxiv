@@ -1,0 +1,151 @@
+# Auto-Annotation & Annotation Guidelines Arxiv Daily Tracker
+# Automatically fetches latest papers in Auto-Annotation, Annotation Guidelines, Foundation Models for Annotation
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "Ezharjan"
+repo_name: "DailyAutoAnnotationArxiv"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 15
+
+publish_readme: False
+publish_gitpage: True
+
+# file paths
+json_readme_path: './docs/auto-annotation-arxiv-daily.json'
+json_gitpage_path: './docs/auto-annotation-arxiv-daily-web.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+
+# Keywords covering Auto-Annotation, Annotation Guidelines, Foundation Models, Active Learning, Few-Shot Learning
+# Aligned with arxiv categories: cs.CV, cs.LG, cs.AI, cs.RO, cs.HC, cs.CL, cs.GR
+keywords:
+    "Auto-Annotation & Annotation Automation":
+        filters: ["Auto-Annotation", "Automatic Annotation", "Automated Labeling",
+                  "Annotation Automation", "Annotation Tool", "Annotation Pipeline",
+                  "Semi-Automatic Annotation", "Data Annotation", "Label Generation",
+                  "Annotation Guidelines", "Annotation Protocol", "Labeling Policy",
+                  "Expert-in-the-loop", "Annotation Quality Control"]
+    
+    "Foundation Models for Vision":
+        filters: ["Vision Foundation Model", "VFM", "Visual Foundation Model",
+                  "Vision-Language Model", "VLM", "CLIP", "GroundingDINO",
+                  "Open-Vocabulary Detection", "Zero-Shot Detection",
+                  "Foundation Model Adaptation", "Foundation Model Finetuning",
+                  "Prompt Engineering", "Visual Grounding", "Open-Set Detection"]
+    
+    "Few-Shot & Zero-Shot Learning":
+        filters: ["Few-Shot Learning", "FSL", "Zero-Shot Learning",
+                  "Few-Shot Detection", "Few-Shot Segmentation",
+                  "Multi-Modal Few-Shot Learning", "Prototypical Networks",
+                  "Meta-Learning", "Transfer Learning", "Domain Adaptation",
+                  "Low-Shot Learning", "One-Shot Learning"]
+    
+    "Active Learning & Human-in-the-Loop":
+        filters: ["Active Learning", "Human-in-the-Loop", "Interactive Annotation",
+                  "Query Strategy", "Uncertainty Sampling", "Human-Machine Collaboration",
+                  "Expert-in-the-Loop", "Annotation Cost Reduction",
+                  "Sample Selection", "Informative Sampling", "Crowdsourcing"]
+    
+    "3D Object Detection & LiDAR":
+        filters: ["3D Object Detection", "3D Detection", "LiDAR Detection",
+                  "Point Cloud Detection", "3D Bounding Box", "3D Cuboid",
+                  "BEV Detection", "Bird's Eye View", "Multi-Modal 3D Detection",
+                  "Camera-LiDAR Fusion", "Frustum-based Detection",
+                  "3D Annotation", "LiDAR Annotation", "Point Cloud Annotation"]
+    
+    "2D Object Detection & Segmentation":
+        filters: ["Object Detection", "Instance Segmentation", "Semantic Segmentation",
+                  "2D Detection", "Bounding Box Detection", "Region Proposal",
+                  "Mask Generation", "Foreground Segmentation", "SAM",
+                  "Segment Anything", "Panoptic Segmentation", "DETR",
+                  "Detection Transformer", "Two-Stage Detection"]
+    
+    "Autonomous Driving & Perception":
+        filters: ["Autonomous Driving", "Self-Driving", "Autonomous Vehicle",
+                  "Driving Perception", "nuScenes", "KITTI", "Waymo Open Dataset",
+                  "Argoverse", "Multi-Modal Perception", "Sensor Fusion",
+                  "3D Scene Understanding", "Traffic Scene Understanding",
+                  "Vehicle Detection", "Pedestrian Detection"]
+    
+    "Multi-Modal Learning & Fusion":
+        filters: ["Multi-Modal Learning", "Multimodal Learning", "Cross-Modal",
+                  "Vision-Language", "Image-Text", "Camera-LiDAR",
+                  "Sensor Fusion", "Modal Fusion", "Cross-Modal Retrieval",
+                  "Multi-View Learning", "RGB-D", "Multi-Sensor",
+                  "2D-3D Lifting", "Projection", "Geometric Alignment"]
+    
+    "Prompt Learning & Engineering":
+        filters: ["Prompt Learning", "Prompt Engineering", "Prompt Design",
+                  "Visual Prompting", "Textual Prompting", "Prompt Tuning",
+                  "Prompt Optimization", "In-Context Learning", "Chain-of-Thought",
+                  "Instruction Following", "Instruction Tuning", "Query Refinement"]
+    
+    "3D Vision & Geometry":
+        filters: ["3D Vision", "3D Computer Vision", "3D Reconstruction",
+                  "Structure from Motion", "SLAM", "Point Cloud Processing",
+                  "3D Shape Analysis", "Geometric Deep Learning", "Depth Estimation",
+                  "Pose Estimation", "Camera Calibration", "Extrinsic Calibration",
+                  "Frustum", "Ray Casting", "Projection Geometry"]
+    
+    "Dataset Curation & Benchmarking":
+        filters: ["Dataset Curation", "Data Collection", "Benchmark Dataset",
+                  "Dataset Construction", "Data Quality", "Annotation Benchmark",
+                  "Evaluation Protocol", "Benchmark Protocol", "Dataset Release",
+                  "Federated Annotation", "Data Split", "Validation Set"]
+    
+    "LLM & Large Language Models":
+        filters: ["Large Language Model", "LLM", "GPT", "Language Model",
+                  "Instruction Understanding", "Text Understanding", "GPT-4",
+                  "Natural Language Processing", "Text-to-Vision", "Vision-Language",
+                  "Multimodal LLM", "Visual Question Answering", "Image Captioning"]
+    
+    "Semi-Supervised & Weakly-Supervised Learning":
+        filters: ["Semi-Supervised Learning", "Weakly-Supervised", "Self-Supervised",
+                  "Unsupervised Learning", "Pseudo-Labeling", "Self-Training",
+                  "Consistency Regularization", "Contrastive Learning",
+                  "Weak Supervision", "Noisy Labels", "Label Noise"]
+    
+    "Object Tracking & Temporal Modeling":
+        filters: ["Object Tracking", "Multi-Object Tracking", "MOT", "Video Object",
+                  "Temporal Modeling", "Tracklet", "Data Association",
+                  "Tracking-by-Detection", "Online Tracking", "Trajectory Prediction",
+                  "Motion Estimation", "Temporal Aggregation", "Sweep Aggregation"]
+    
+    "Model Adaptation & Finetuning":
+        filters: ["Model Adaptation", "Domain Adaptation", "Finetuning",
+                  "Transfer Learning", "Model Specialization", "Task Adaptation",
+                  "Parameter-Efficient Finetuning", "PEFT", "LoRA", "Adapter",
+                  "Continual Learning", "Incremental Learning", "Model Refinement"]
+    
+    "Quality Assessment & Scoring":
+        filters: ["Quality Assessment", "Confidence Scoring", "Detection Confidence",
+                  "Box Scoring", "Prediction Confidence", "Uncertainty Estimation",
+                  "Quality Control", "Score Calibration", "Occupancy Rate",
+                  "IoU", "Intersection over Union", "NMS", "Non-Maximum Suppression"]
+    
+    "Robotics & Embodied AI":
+        filters: ["Robotics", "Embodied AI", "Robot Perception", "Robot Vision",
+                  "Mobile Robot", "Manipulation", "Robot Learning",
+                  "Visual Servoing", "Scene Understanding", "Spatial AI",
+                  "Navigation", "Path Planning", "SLAM"]
+    
+    "Computer Graphics & Rendering":
+        filters: ["Computer Graphics", "3D Graphics", "Rendering", "Mesh Generation",
+                  "3D Modeling", "Texture Mapping", "Ray Tracing", "Neural Rendering",
+                  "NeRF", "Gaussian Splatting", "3D Visualization",
+                  "Point Cloud Rendering", "BEV Rendering"]
+    
+    "Clustering & Point Cloud Processing":
+        filters: ["Point Cloud Clustering", "DBSCAN", "Clustering Algorithm",
+                  "Density-Based Clustering", "Point Cloud Segmentation",
+                  "Point Grouping", "Spatial Clustering", "Geometric Clustering",
+                  "Outlier Removal", "Noise Filtering", "Point Cloud Denoising"]
+    
+    "Evaluation Metrics & Protocols":
+        filters: ["Average Precision", "mAP", "Mean Average Precision",
+                  "Detection Score", "NDS", "nuScenes Detection Score",
+                  "Evaluation Metric", "Performance Metric", "Benchmark Evaluation",
+                  "Translation Error", "Scale Error", "Orientation Error",
+                  "Velocity Error", "Precision-Recall"]
