@@ -1,5 +1,5 @@
 /**
- * Health Computing Arxiv Daily - Site Enhancements
+ * Auto-Annotation Arxiv Daily - Site Enhancements
  * Clean, professional JavaScript without dark mode toggle
  */
 
@@ -358,7 +358,7 @@
   // Initialize table row animations
   setTimeout(observeTableRows, 300);
 
-  console.log('✅ Health Computing Arxiv Daily - Site enhancements loaded successfully!');
+  console.log('✅ Auto-Annotation Arxiv Daily - Site enhancements loaded successfully!');
 
 })();
 

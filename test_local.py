@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Local testing script for Health Arxiv Daily
+Local testing script for Auto-Annotation Arxiv Daily
 """
 import os
 import sys
@@ -13,23 +13,23 @@ def create_test_config():
     config = {
         'base_url': 'https://arxiv.paperswithcode.com/api/v0/papers/',
         'user_name': 'TestUser',
-        'repo_name': 'health-arxiv-daily',
+        'repo_name': 'auto-annotation-arxiv-daily',
         'show_authors': True,
         'show_links': True,
         'show_badge': True,
         'max_results': 5,  # Reduced for testing
         'publish_readme': True,
         'publish_gitpage': True,
-        'json_readme_path': './docs/health-arxiv-daily.json',
-        'json_gitpage_path': './docs/health-arxiv-daily-web.json',
+        'json_readme_path': './docs/auto-annotation-arxiv-daily.json',
+        'json_gitpage_path': './docs/auto-annotation-arxiv-daily-web.json',
         'md_readme_path': 'README.md',
         'md_gitpage_path': './docs/index.md',
         'keywords': {
-            'Medical Image Analysis': {
-                'filters': ['Medical Image Analysis', 'Medical Image Segmentation']
+            'Auto-Annotation & Annotation Automation': {
+                'filters': ['Auto-Annotation', 'Automatic Annotation']
             },
-            'Foundation Models for Healthcare': {
-                'filters': ['Medical Foundation Model', 'Clinical LLM']
+            'Foundation Models for Vision': {
+                'filters': ['Vision Foundation Model', 'Visual Grounding']
             }
         }
     }

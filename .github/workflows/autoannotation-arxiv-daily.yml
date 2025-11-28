@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Run Health Arxiv Papers Daily
+name: Run AutoAnnotation Arxiv Papers Daily
 
 # Controls when the workflow will run
 on:
@@ -57,7 +57,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update Auto-Annotation Arxiv Papers"
-          files: docs/health-arxiv-daily.json docs/health-arxiv-daily-web.json docs/index.md
+          files: docs/auto-annotation-arxiv-daily.json docs/auto-annotation-arxiv-daily-web.json docs/index.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}

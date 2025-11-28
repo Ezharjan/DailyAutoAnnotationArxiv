@@ -1,10 +1,10 @@
-# 🏥 Auto-Annotation Arxiv Daily
+# 🏷️ Auto-Annotation Arxiv Daily
 
-[![Daily Update](https://github.com/Ezharjan/DailyAutoAnnotationArxiv/workflows/Run%20Health%20Arxiv%20Papers%20Daily/badge.svg)](https://github.com/Ezharjan/DailyAutoAnnotationArxiv/actions)
+[![Daily Update](https://github.com/Ezharjan/DailyAutoAnnotationArxiv/workflows/Run%20AutoAnnotation%20Arxiv%20Papers%20Daily/badge.svg)](https://github.com/Ezharjan/DailyAutoAnnotationArxiv/actions)
 [![License](https://img.shields.io/github/license/Ezharjan/DailyAutoAnnotationArxiv)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/Ezharjan/DailyAutoAnnotationArxiv)](https://github.com/Ezharjan/DailyAutoAnnotationArxiv/commits/main)
 
-> **Automatically tracking the latest research papers in Auto-Annotation and Medical AI from arXiv**
+> **Automatically tracking the latest research papers in Auto-Annotation and Computer Vision from arXiv**
 
 📊 **12 Research Domains** | 🔄 **Daily Updates** | 🤖 **Fully Automated** | 🌐 **[Live Website](https://Ezharjan.github.io/DailyAutoAnnotationArxiv/)**
 
@@ -29,18 +29,17 @@
 **Auto-Annotation Arxiv Daily** is an automated research paper tracking system that:
 
 - 📰 **Fetches** latest papers from arXiv every 24 hours
-- 🎯 **Filters** by 150+ Auto-Annotation keywords across 12 domains
+- 🎯 **Filters** by 150+ Auto-Annotation and Computer Vision keywords across 12 domains
 - 🔗 **Links** to code repositories when available
 - 📊 **Organizes** papers by research domain
 - 🌐 **Publishes** to a beautiful website with search
 
-Perfect for researchers, clinicians, and AI enthusiasts who want to stay updated on:
-- Medical imaging and analysis
-- Clinical AI and electronic health records
-- Foundation models for healthcare
-- Drug discovery and bioinformatics
-- Healthcare robotics
-- Digital health and telemedicine
+Perfect for researchers and AI enthusiasts who want to stay updated on:
+- Auto-annotation and annotation automation
+- Vision foundation models (CLIP, GroundingDINO, SAM)
+- 3D object detection and LiDAR perception
+- Autonomous driving and sensor fusion
+- Few-shot and zero-shot learning
 - And more!
 
 **Last Updated**: Auto-generated daily at 9:00 AM UTC
@@ -63,7 +62,7 @@ Perfect for researchers, clinicians, and AI enthusiasts who want to stay updated
 - ✅ Quick stats dashboard
 
 ### 🔍 Smart Organization
-- ✅ 12 comprehensive Auto-Annotation domains
+- ✅ 12 comprehensive Auto-Annotation and Computer Vision domains
 - ✅ 150+ curated research keywords
 - ✅ Automatic categorization
 - ✅ Code repository detection
@@ -133,8 +132,8 @@ python daily_arxiv.py --update_paper_links
 ### Generated Files
 - `README.md` - Main paper list (table format)
 - `docs/index.md` - Web-friendly version
-- `docs/health-arxiv-daily.json` - Complete data
-- `docs/health-arxiv-daily-web.json` - Web-optimized data
+- `docs/auto-annotation-arxiv-daily.json` - Complete data
+- `docs/auto-annotation-arxiv-daily-web.json` - Web-optimized data
 
 ---
 
@@ -168,13 +167,13 @@ keywords:
 
 ```yaml
 keywords:
-    "Wearable Health Devices":
+    "3D Object Detection":
         filters: 
-            - "Wearable Sensor"
-            - "Smart Watch Health"
-            - "Fitness Tracker"
-            - "Wearable Healthcare"
-            - "Body Sensor Network"
+            - "3D Object Detection"
+            - "LiDAR Detection"
+            - "Point Cloud Detection"
+            - "3D Bounding Box"
+            - "BEV Detection"
 ```
 
 ### Adjusting Paper Count
@@ -185,7 +184,7 @@ keywords:
 
 ### Update Schedule
 
-Edit `.github/workflows/health-arxiv-daily.yml`:
+Edit `.github/workflows/autoannotation-arxiv-daily.yml`:
 
 ```yaml
 schedule:
@@ -214,7 +213,7 @@ git push origin main
 
 #### 2. Update Configuration
 
-**Edit `.github/workflows/health-arxiv-daily.yml`:**
+**Edit `.github/workflows/autoannotation-arxiv-daily.yml`:**
 ```yaml
 env:
   GITHUB_USER_NAME: YourUsername  # Change this
@@ -239,7 +238,7 @@ user_name: "YourUsername"  # Change this
 
 #### 5. Trigger First Run
 1. Actions tab
-2. "Run Health Arxiv Papers Daily"
+2. "Run AutoAnnotation Arxiv Papers Daily"
 3. "Run workflow"
 
 Your site: `https://yourusername.github.io/DailyAutoAnnotationArxiv/`
@@ -248,137 +247,138 @@ Your site: `https://yourusername.github.io/DailyAutoAnnotationArxiv/`
 
 ## 📚 Research Domains
 
-Current tracking covers 12 comprehensive Auto-Annotation domains:
+Current tracking covers 12 comprehensive Auto-Annotation and Computer Vision domains:
 
 <details>
-<summary><strong>🖼️ Medical Image Analysis</strong></summary>
+<summary><strong>🏷️ Auto-Annotation & Annotation Automation</strong></summary>
 
-- Medical image segmentation
-- Radiology AI
-- Pathology image analysis
-- Medical image registration
-- CT/MRI/X-ray analysis
-- 3D medical imaging
+- Auto-annotation pipelines
+- Automatic labeling
+- Annotation tools
+- Semi-automatic annotation
+- Label generation
+- Annotation quality control
 </details>
 
 <details>
-<summary><strong>🏥 Clinical AI & EHR</strong></summary>
+<summary><strong>🔮 Foundation Models for Vision</strong></summary>
 
-- Electronic health records
-- Clinical decision support
-- Patient monitoring
-- ICU prediction
-- Hospital readmission
-- Clinical workflow optimization
+- Vision foundation models (VFM)
+- CLIP and visual grounding
+- GroundingDINO
+- Open-vocabulary detection
+- Zero-shot detection
+- Foundation model adaptation
 </details>
 
 <details>
-<summary><strong>🏗️ Foundation Models for Healthcare</strong></summary>
+<summary><strong>🎯 Few-Shot & Zero-Shot Learning</strong></summary>
 
-- Medical foundation models
-- Healthcare large language models
+- Few-shot learning (FSL)
+- Zero-shot learning
+- Few-shot detection
+- Meta-learning
+- Prototypical networks
+- Transfer learning
+</details>
+
+<details>
+<summary><strong>👤 Active Learning & Human-in-the-Loop</strong></summary>
+
+- Active learning
+- Human-in-the-loop annotation
+- Interactive annotation
+- Uncertainty sampling
+- Sample selection
+- Crowdsourcing
+</details>
+
+<details>
+<summary><strong>📦 3D Object Detection & LiDAR</strong></summary>
+
+- 3D object detection
+- LiDAR detection
+- Point cloud detection
+- 3D bounding box
+- BEV detection
+- Camera-LiDAR fusion
+</details>
+
+<details>
+<summary><strong>🖼️ 2D Object Detection & Segmentation</strong></summary>
+
+- Object detection
+- Instance segmentation
+- Semantic segmentation
+- SAM (Segment Anything)
+- DETR and detection transformers
+- Panoptic segmentation
+</details>
+
+<details>
+<summary><strong>🚗 Autonomous Driving & Perception</strong></summary>
+
+- Autonomous driving perception
+- nuScenes, KITTI, Waymo
+- Multi-modal perception
+- Sensor fusion
+- Traffic scene understanding
+- Vehicle and pedestrian detection
+</details>
+
+<details>
+<summary><strong>🔗 Multi-Modal Learning & Fusion</strong></summary>
+
+- Multi-modal learning
 - Vision-language models
-- Multi-modal medical AI
-- Transfer learning in medicine
+- Camera-LiDAR fusion
+- Sensor fusion
+- Cross-modal retrieval
+- 2D-3D lifting
 </details>
 
 <details>
-<summary><strong>🤖 Medical AI & Diagnosis</strong></summary>
+<summary><strong>💬 Prompt Learning & Engineering</strong></summary>
 
-- Disease diagnosis
-- Treatment recommendation
-- Medical chatbots
-- Symptom checking
-- Differential diagnosis
-- Prognosis prediction
+- Prompt learning
+- Visual prompting
+- Prompt tuning
+- In-context learning
+- Chain-of-thought
+- Instruction following
 </details>
 
 <details>
-<summary><strong>🧬 Drug Discovery & Bioinformatics</strong></summary>
+<summary><strong>🌐 3D Vision & Geometry</strong></summary>
 
-- Drug design
-- Molecular property prediction
-- Protein structure
-- Genomics
-- Precision medicine
-- Biomarker discovery
+- 3D computer vision
+- 3D reconstruction
+- SLAM
+- Depth estimation
+- Pose estimation
+- Camera calibration
 </details>
 
 <details>
-<summary><strong>🤖 Healthcare Robotics</strong></summary>
+<summary><strong>📊 Dataset Curation & Benchmarking</strong></summary>
 
-- Surgical robots
-- Rehabilitation robotics
-- Assistive devices
-- Medical automation
-- Prosthetics
-- Robotic surgery
+- Dataset curation
+- Benchmark datasets
+- Annotation benchmarks
+- Data quality
+- Evaluation protocols
+- Dataset construction
 </details>
 
 <details>
-<summary><strong>🥽 VR/AR/XR for Healthcare</strong></summary>
+<summary><strong>🤖 LLM & Large Language Models</strong></summary>
 
-- Medical VR/AR
-- Surgical simulation
-- Pain management VR
-- Medical training
-- Therapy applications
-- Visualization
-</details>
-
-<details>
-<summary><strong>💻 HCI & Digital Health</strong></summary>
-
-- mHealth applications
-- Telemedicine
-- Health informatics
-- Patient engagement
-- Health apps
-- Remote monitoring
-</details>
-
-<details>
-<summary><strong>📊 Biosignal Processing</strong></summary>
-
-- ECG/EEG analysis
-- Sleep monitoring
-- Vital signs
-- Physiological signals
-- Wearable sensors
-- Signal processing
-</details>
-
-<details>
-<summary><strong>🌍 Public Health & Epidemiology</strong></summary>
-
-- Disease surveillance
-- Outbreak prediction
-- Health policy
-- Population health
-- Social determinants
-- Healthcare access
-</details>
-
-<details>
-<summary><strong>🧠 Mental Health & Neuroscience</strong></summary>
-
-- Depression detection
-- Cognitive assessment
-- Brain-computer interfaces
-- Neuroimaging
-- Mental health apps
-- Behavioral analysis
-</details>
-
-<details>
-<summary><strong>📖 Medical NLP & Knowledge</strong></summary>
-
-- Clinical NLP
-- Medical text mining
-- Knowledge graphs
-- Information extraction
-- Medical literature analysis
-- Question answering
+- Large language models
+- GPT and instruction understanding
+- Vision-language integration
+- Multi-modal LLMs
+- Text understanding
+- LLM for annotation
 </details>
 
 ---
@@ -407,7 +407,7 @@ pip install arxiv requests pyyaml
 
 **"Papers not relevant"**
 - Edit config.yaml keywords
-- Add specific domain terms: "clinical", "medical", "healthcare"
+- Add specific domain terms: "annotation", "detection", "segmentation"
 - Review and refine filters
 
 **"SSL/Connection errors"**
@@ -514,7 +514,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🌐 **Live Website**: https://Ezharjan.github.io/DailyAutoAnnotationArxiv/
 - 📦 **GitHub Repo**: https://github.com/Ezharjan/DailyAutoAnnotationArxiv
-- 📊 **JSON Data**: [health-arxiv-daily.json](docs/health-arxiv-daily.json)
+- 📊 **JSON Data**: [auto-annotation-arxiv-daily.json](docs/auto-annotation-arxiv-daily.json)
 - 📘 **Detailed Usage**: [docs/README.md](docs/README.md)
 
 ---
@@ -523,7 +523,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎉 Happy Researching!
 
-**Stay updated with the latest in Auto-Annotation and Medical AI**
+**Stay updated with the latest in Auto-Annotation and Computer Vision**
 
 Made with ❤️ for the research community
 

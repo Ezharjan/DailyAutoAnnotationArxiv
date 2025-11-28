@@ -12,14 +12,14 @@ permalink: /setup
 
 ### For Viewing Only
 
-Simply visit [DailyHealthArxiv](https://ezharjan.github.io/DailyHealthArxiv/) to browse the latest papers!
+Simply visit [DailyAutoAnnotationArxiv](https://ezharjan.github.io/DailyAutoAnnotationArxiv/) to browse the latest papers!
 
 ### For Local Development
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ezharjan/DailyHealthArxiv.git
-   cd DailyHealthArxiv
+   git clone https://github.com/Ezharjan/DailyAutoAnnotationArxiv.git
+   cd DailyAutoAnnotationArxiv
    ```
 
 2. **Install dependencies**
@@ -59,17 +59,17 @@ max_results: 15  # Increase for more papers
 **Focus on specific area:**
 ```yaml
 keywords:
-    "Surgical AI":
-        filters: ["Robot-Assisted Surgery", "Surgical Robot",
-                  "Surgical Automation", "Surgical Planning"]
+    "3D Object Detection":
+        filters: ["3D Object Detection", "LiDAR Detection",
+                  "Point Cloud Detection", "3D Bounding Box"]
 ```
 
 **Broad coverage:**
 ```yaml
 keywords:
-    "Medical AI":
-        filters: ["Medical AI", "Healthcare AI", "Clinical AI",
-                  "Medical Machine Learning", "Healthcare ML"]
+    "Auto-Annotation":
+        filters: ["Auto-Annotation", "Automatic Annotation", "Automated Labeling",
+                  "Annotation Automation", "Data Annotation"]
 ```
 
 ## 🔧 Advanced Setup
@@ -190,11 +190,11 @@ python daily_arxiv.py
 
 ## 📚 Additional Resources
 
-- [Configuration Reference](https://github.com/Ezharjan/DailyHealthArxiv/blob/master/docs/README.md)
+- [Configuration Reference](https://github.com/Ezharjan/DailyAutoAnnotationArxiv/blob/master/docs/README.md)
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 - [Jekyll Documentation](https://jekyllrb.com/docs/)
 - [Just the Docs Theme](https://just-the-docs.github.io/just-the-docs/)
 
 ---
 
-Need more help? [Open an issue](https://github.com/Ezharjan/DailyHealthArxiv/issues) or [discuss](https://github.com/Ezharjan/DailyHealthArxiv/discussions).
+Need more help? [Open an issue](https://github.com/Ezharjan/DailyAutoAnnotationArxiv/issues) or [discuss](https://github.com/Ezharjan/DailyAutoAnnotationArxiv/discussions).

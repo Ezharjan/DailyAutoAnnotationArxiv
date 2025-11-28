@@ -2,7 +2,7 @@
 layout: default
 title: About
 nav_order: 2
-description: "About Health Computing Arxiv Daily tracker"
+description: "About Auto-Annotation Arxiv Daily tracker"
 permalink: /about
 ---
 
@@ -10,25 +10,24 @@ permalink: /about
 
 ## 🎯 Purpose
 
-The Health Computing Arxiv Daily tracker automatically monitors and organizes the latest research papers in AI+Healthcare, Medical AI, and related health computing domains from arXiv.
+The Auto-Annotation Arxiv Daily tracker automatically monitors and organizes the latest research papers in Auto-Annotation, Annotation Automation, Foundation Models for Computer Vision, and related annotation domains from arXiv.
 
 ## 🔄 How It Works
 
 1. **Automated Fetching**: GitHub Actions runs every 24 hours to fetch new papers
-2. **Smart Categorization**: Papers are organized into 12 research domains
+2. **Smart Categorization**: Papers are organized into research domains covering auto-annotation, vision foundation models, and autonomous driving perception
 3. **Code Links**: Automatically finds associated GitHub repositories
 4. **Web Display**: Beautiful, searchable interface with sidebar navigation
 
 ## 📊 Coverage
 
 We track papers from these arXiv categories:
+- **cs.CV** - Computer Vision (Auto-Annotation, Object Detection, Segmentation)
 - **cs.AI** - Artificial Intelligence
 - **cs.LG** - Machine Learning
-- **cs.CV** - Computer Vision (Medical Imaging)
-- **cs.CL** - Computation and Language (Clinical NLP)
-- **cs.HC** - Human-Computer Interaction (Digital Health)
-- **cs.RO** - Robotics (Healthcare Robotics)
-- **cs.CY** - Computers and Society (Health Equity)
+- **cs.RO** - Robotics (Autonomous Driving, Perception)
+- **cs.HC** - Human-Computer Interaction (Annotation Tools)
+- **cs.CL** - Computation and Language (Vision-Language Models)
 
 ## 🚀 Features
 
@@ -38,8 +37,8 @@ We track papers from these arXiv categories:
 - Updates code repository links weekly
 
 ### Smart Organization
-- 12 specialized health computing categories
-- 150+ carefully curated keywords
+- Multiple specialized auto-annotation categories
+- 150+ carefully curated keywords for computer vision and annotation
 - Relevance-based filtering
 
 ### User-Friendly Interface
@@ -71,7 +70,7 @@ We track papers from these arXiv categories:
 
 Contributions are welcome! Ways to contribute:
 
-1. **Add Keywords**: Suggest new research topics
+1. **Add Keywords**: Suggest new research topics in auto-annotation and computer vision
 2. **Improve Filters**: Refine search queries
 3. **Report Issues**: Found a bug? Let us know
 4. **Documentation**: Help improve guides
@@ -91,7 +90,7 @@ This project is provided for research and educational purposes, under MIT licens
 
 - **GitHub**: [@Ezharjan](https://github.com/Ezharjan)
 - **Email**: mysoft@111.com
-- **Issues**: [Report here](https://github.com/Ezharjan/DailyHealthArxiv/issues)
+- **Issues**: [Report here](https://github.com/Ezharjan/DailyAutoAnnotationArxiv/issues)
 
 ---
 

@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<!-- Favicon -->
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🏷️</text></svg>">
 <!-- Custom CSS and JavaScript -->
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 <!-- Clean override stylesheet to ensure no overlaps and sidebar TOC -->
@@ -10,7 +12,7 @@ layout: default
 
 <div class="paper-dashboard">
   <div class="dashboard-header">
-    <h1 class="dashboard-title">{{ page.title | default: "Health Computing Arxiv Daily" }}</h1>
+    <h1 class="dashboard-title">{{ page.title | default: "Auto-Annotation Arxiv Daily" }}</h1>
     <p class="last-updated">📅 {{ page.last_updated | default: "Last updated" }}: {{ "now" | date: "%Y-%m-%d" }}</p>
   </div>
 
@@ -27,7 +29,7 @@ layout: default
     </div>
     <div class="stat-card">
       <span class="stat-icon">🤖</span>
-      <span class="stat-label">AI+Healthcare</span>
+      <span class="stat-label">Auto-Annotation</span>
       <span class="stat-value">Latest</span>
     </div>
   </div>

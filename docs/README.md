@@ -1,4 +1,4 @@
-# Health Arxiv Daily - Usage Guide
+# Auto-Annotation Arxiv Daily - Usage Guide
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 
 ## Overview
 
-The Health Arxiv Daily project automatically tracks and organizes the latest research papers in health computing, medical AI, and related domains from arXiv. This guide explains how to use and customize the system.
+The Auto-Annotation Arxiv Daily project automatically tracks and organizes the latest research papers in auto-annotation, annotation automation, vision foundation models, and related computer vision domains from arXiv. This guide explains how to use and customize the system.
 
 ---
 
@@ -36,8 +36,8 @@ This command:
 **Output Files:**
 - `README.md` - Main paper list
 - `docs/index.md` - GitHub Pages version
-- `docs/health-arxiv-daily.json` - Data storage
-- `docs/health-arxiv-daily-web.json` - Web format data
+- `docs/auto-annotation-arxiv-daily.json` - Data storage
+- `docs/auto-annotation-arxiv-daily-web.json` - Web format data
 
 #### 2. Update Paper Links
 
@@ -71,7 +71,7 @@ Use a custom configuration file instead of the default `config.yaml`.
 # Basic Settings
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "YourGitHubUsername"
-repo_name: "health-arxiv-daily"
+repo_name: "auto-annotation-arxiv-daily"
 max_results: 15  # Papers per topic
 
 # Output Options
@@ -105,22 +105,22 @@ keywords:
 - Multi-word phrases are automatically quoted
 - Filters use OR logic (matches any filter)
 
-### Recommended Health Computing Keywords
+### Recommended Auto-Annotation Keywords
 
 The default configuration includes:
 
-1. **Medical Image Analysis** - CT, MRI, X-ray, pathology
-2. **Clinical AI & EHR** - Electronic health records, clinical NLP
-3. **Foundation Models** - Medical LLMs, vision-language models
-4. **Medical AI & Diagnosis** - Disease detection, CAD systems
-5. **Drug Discovery** - Molecular design, bioinformatics
-6. **Healthcare Robotics** - Surgical robots, assistive devices
-7. **VR/AR/XR** - Medical visualization, surgical simulation
-8. **HCI & Digital Health** - mHealth, telemedicine
-9. **Biosignal Processing** - ECG, EEG, BCI
-10. **Public Health** - Epidemiology, disease surveillance
-11. **Mental Health** - Depression detection, neuroimaging
-12. **Medical NLP** - Clinical text mining, knowledge graphs
+1. **Auto-Annotation & Annotation Automation** - Auto labeling, annotation tools
+2. **Foundation Models for Vision** - VFM, CLIP, GroundingDINO
+3. **Few-Shot & Zero-Shot Learning** - Meta-learning, transfer learning
+4. **Active Learning & Human-in-the-Loop** - Interactive annotation
+5. **3D Object Detection & LiDAR** - Point cloud, BEV detection
+6. **2D Object Detection & Segmentation** - SAM, DETR, instance segmentation
+7. **Autonomous Driving & Perception** - nuScenes, KITTI, Waymo
+8. **Multi-Modal Learning & Fusion** - Camera-LiDAR, sensor fusion
+9. **Prompt Learning & Engineering** - Visual prompting, in-context learning
+10. **3D Vision & Geometry** - SLAM, depth estimation, calibration
+11. **Dataset Curation & Benchmarking** - Data quality, annotation benchmarks
+12. **LLM & Large Language Models** - GPT, instruction understanding
 
 ---
 
@@ -128,51 +128,52 @@ The default configuration includes:
 
 ### Example 1: Focused Search
 
-For a narrow focus on surgical robotics only:
+For a narrow focus on 3D object detection only:
 
 ```yaml
 keywords:
-    "Surgical Robotics":
-        filters: ["Robot-Assisted Surgery", "Surgical Robot", 
-                  "Robotic Surgery", "Surgical Automation",
-                  "Minimally Invasive Surgery Robot"]
+    "3D Object Detection":
+        filters: ["3D Object Detection", "LiDAR Detection", 
+                  "Point Cloud Detection", "3D Bounding Box",
+                  "BEV Detection"]
 ```
 
 ### Example 2: Broad Coverage
 
-For comprehensive coverage of medical imaging:
+For comprehensive coverage of auto-annotation:
 
 ```yaml
 keywords:
-    "Medical Imaging AI":
-        filters: ["Medical Image", "Radiology AI", "Medical Imaging",
-                  "CT Scan", "MRI", "X-ray", "Ultrasound",
-                  "Pathology Image", "Histopathology",
-                  "Medical Image Segmentation", "Medical Image Classification"]
+    "Auto-Annotation":
+        filters: ["Auto-Annotation", "Automatic Annotation", "Automated Labeling",
+                  "Annotation Automation", "Data Annotation",
+                  "Semi-Automatic Annotation", "Label Generation",
+                  "Annotation Pipeline", "Annotation Tool",
+                  "Annotation Quality Control", "Expert-in-the-loop"]
 ```
 
 ### Example 3: Multiple Related Topics
 
 ```yaml
 keywords:
-    "AI for Mental Health":
-        filters: ["Mental Health AI", "Depression Detection", 
-                  "Anxiety Detection", "Psychiatric AI"]
+    "Vision Foundation Models":
+        filters: ["Vision Foundation Model", "VFM", 
+                  "Visual Foundation Model", "CLIP"]
     
-    "Neuroscience AI":
-        filters: ["Neuroimaging", "Brain Imaging", "fMRI Analysis",
-                  "Alzheimer Detection", "Neurodegenerative Disease"]
+    "Zero-Shot Detection":
+        filters: ["Zero-Shot Detection", "Open-Vocabulary Detection",
+                  "Open-Set Detection", "GroundingDINO"]
 ```
 
 ### Example 4: Emerging Areas
 
 ```yaml
 keywords:
-    "Foundation Models for Medicine":
-        filters: ["Medical Foundation Model", "Med-LLM", 
-                  "Clinical Large Language Model",
-                  "Medical Vision-Language Model",
-                  "Healthcare GPT", "BioGPT"]
+    "Segment Anything Model":
+        filters: ["Segment Anything", "SAM", 
+                  "Foundation Model Segmentation",
+                  "Zero-Shot Segmentation",
+                  "Universal Segmentation", "Promptable Segmentation"]
 ```
 
 ---
@@ -193,11 +194,11 @@ keywords:
 
 #### 2. Too Many Irrelevant Papers
 
-**Problem:** Papers don't match health computing focus
+**Problem:** Papers don't match auto-annotation focus
 
 **Solutions:**
 - Use more specific filter terms
-- Add domain-specific phrases (e.g., "clinical", "medical", "healthcare")
+- Add domain-specific phrases (e.g., "annotation", "labeling", "detection")
 - Combine multiple specific terms
 - Reduce `max_results` for quality over quantity
 
@@ -246,15 +247,14 @@ keywords:
 
 ### Filtering by arXiv Category
 
-arXiv papers are categorized. Relevant categories for health computing:
+arXiv papers are categorized. Relevant categories for auto-annotation:
 
+- **cs.CV** - Computer Vision (detection, segmentation, annotation)
 - **cs.AI** - Core AI algorithms
 - **cs.LG** - Machine learning methods
-- **cs.CV** - Medical image analysis
-- **cs.CL** - Clinical NLP
-- **cs.HC** - Health interface design
-- **cs.RO** - Healthcare robotics
-- **cs.CY** - Health equity and social impact
+- **cs.RO** - Robotics (autonomous driving perception)
+- **cs.HC** - Human-Computer Interaction (annotation tools)
+- **cs.CL** - Computation and Language (vision-language models)
 
 ### Query Construction
 
@@ -277,7 +277,7 @@ Edit `daily_arxiv.py` function `json_to_md()` to customize:
 
 ### Scheduling
 
-Modify `.github/workflows/health-arxiv-daily.yml`:
+Modify `.github/workflows/autoannotation-arxiv-daily.yml`:
 
 ```yaml
 schedule:
@@ -306,7 +306,7 @@ Examples:
 
 - **Issues**: Open a GitHub issue
 - **Questions**: Check existing issues or create new one
-- **Contributions**: PRs welcome for new health computing topics
+- **Contributions**: PRs welcome for new auto-annotation and computer vision topics
 
 ---
 
