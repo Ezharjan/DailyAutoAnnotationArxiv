@@ -18,7 +18,7 @@ last_updated: 2025.11.29
 |**2025-11-26**|**Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following**|Tianyi Xiong et.al.|[2511.21662](http://arxiv.org/abs/2511.21662)|**[link](https://github.com/multi-crit/multi-crit.github.io)**|
 |**2025-11-26**|**Automated Protein Motif Localization using Concept Activation Vectors in Protein Language Model Embedding Space**|Ahmad Shamail et.al.|[2511.21614](http://arxiv.org/abs/2511.21614)||
 |**2025-11-26**|**Auxiliary Metrics Help Decoding Skill Neurons in the Wild**|Yixiu Zhao et.al.|[2511.21610](http://arxiv.org/abs/2511.21610)||
-|**2025-11-26**|**Symmetries of excitons**|Muralidhar Nalabothula et.al.|[2511.21540](http://arxiv.org/abs/2511.21540)|**[link](https://github.com/SitangshuIIITA/PRB_data_availability_LA18636B)**|
+|**2025-11-26**|**Symmetries of excitons**|Muralidhar Nalabothula et.al.|[2511.21540](http://arxiv.org/abs/2511.21540)||
 |**2025-11-26**|**Self-Paced Learning for Images of Antinuclear Antibodies**|Yiyang Jiang et.al.|[2511.21519](http://arxiv.org/abs/2511.21519)||
 |**2025-11-26**|**Semantic-Enhanced Feature Matching with Learnable Geometric Verification for Cross-Modal Neuron Registration**|Wenwei Li et.al.|[2511.21452](http://arxiv.org/abs/2511.21452)||
 |**2025-11-26**|**Constructing and Benchmarking: a Labeled Email Dataset for Text-Based Phishing and Spam Detection Framework**|Rebeka Toth et.al.|[2511.21448](http://arxiv.org/abs/2511.21448)||
@@ -212,7 +212,7 @@ last_updated: 2025.11.29
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-26**|**Canvas-to-Image: Compositional Image Generation with Multimodal Controls**|Yusuf Dalva et.al.|[2511.21691](http://arxiv.org/abs/2511.21691)||
+|**2025-11-26**|**Canvas-to-Image: Compositional Image Generation with Multimodal Controls**|Yusuf Dalva et.al.|[2511.21691](http://arxiv.org/abs/2511.21691)|**[link](https://github.com/snap-research/canvas-to-image)**|
 |**2025-11-26**|**G $^2$ VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning**|Wenbo Hu et.al.|[2511.21688](http://arxiv.org/abs/2511.21688)||
 |**2025-11-26**|**Agentic Learner with Grow-and-Refine Multimodal Semantic Memory**|Weihao Bo et.al.|[2511.21678](http://arxiv.org/abs/2511.21678)||
 |**2025-11-26**|**Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following**|Tianyi Xiong et.al.|[2511.21662](http://arxiv.org/abs/2511.21662)||
@@ -267,10 +267,10 @@ last_updated: 2025.11.29
 |**2025-11-26**|**G $^2$ VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning**|Wenbo Hu et.al.|[2511.21688](http://arxiv.org/abs/2511.21688)||
 |**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)||
 |**2025-11-26**|**Uncertainty Quantification for Visual Object Pose Estimation**|Lorenzo Shaikewitz et.al.|[2511.21666](http://arxiv.org/abs/2511.21666)||
-|**2025-11-26**|**Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following**|Tianyi Xiong et.al.|[2511.21662](http://arxiv.org/abs/2511.21662)|**[link](https://github.com/multi-crit/multi-crit.github.io)**|
+|**2025-11-26**|**Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following**|Tianyi Xiong et.al.|[2511.21662](http://arxiv.org/abs/2511.21662)||
 |**2025-11-26**|**AI/ML Model Cards in Edge AI Cyberinfrastructure: towards Agentic AI**|Beth Plale et.al.|[2511.21661](http://arxiv.org/abs/2511.21661)||
 |**2025-11-26**|**The Need for Benchmarks to Advance AI-Enabled Player Risk Detection in Gambling**|Kasra Ghaharian et.al.|[2511.21658](http://arxiv.org/abs/2511.21658)||
-|**2025-11-26**|**CaFlow: Enhancing Long-Term Action Quality Assessment with Causal Counterfactual Flow**|Ruisheng Han et.al.|[2511.21653](http://arxiv.org/abs/2511.21653)|**[link](https://github.com/Harrison21/CaFlow)**|
+|**2025-11-26**|**CaFlow: Enhancing Long-Term Action Quality Assessment with Causal Counterfactual Flow**|Ruisheng Han et.al.|[2511.21653](http://arxiv.org/abs/2511.21653)||
 |**2025-11-26**|**TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs**|Kay Liu et.al.|[2511.21624](http://arxiv.org/abs/2511.21624)||
 |**2025-11-26**|**Automated Protein Motif Localization using Concept Activation Vectors in Protein Language Model Embedding Space**|Ahmad Shamail et.al.|[2511.21614](http://arxiv.org/abs/2511.21614)||
 |**2025-11-26**|**Transit Timing of the White Dwarf-Cold Jupiter System WD 1856+534**|Eli A. Gendreau-Distler et.al.|[2511.21611](http://arxiv.org/abs/2511.21611)||
@@ -288,7 +288,7 @@ last_updated: 2025.11.29
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-11-26**|**Revisiting Generalization Across Difficulty Levels: It's Not So Easy**|Yeganeh Kordi et.al.|[2511.21692](http://arxiv.org/abs/2511.21692)||
-|**2025-11-26**|**Canvas-to-Image: Compositional Image Generation with Multimodal Controls**|Yusuf Dalva et.al.|[2511.21691](http://arxiv.org/abs/2511.21691)||
+|**2025-11-26**|**Canvas-to-Image: Compositional Image Generation with Multimodal Controls**|Yusuf Dalva et.al.|[2511.21691](http://arxiv.org/abs/2511.21691)|**[link](https://github.com/snap-research/canvas-to-image)**|
 |**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)||
 |**2025-11-26**|**ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration**|Hongjin Su et.al.|[2511.21689](http://arxiv.org/abs/2511.21689)||
 |**2025-11-26**|**G $^2$ VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning**|Wenbo Hu et.al.|[2511.21688](http://arxiv.org/abs/2511.21688)||
