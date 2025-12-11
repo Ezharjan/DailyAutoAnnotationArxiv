@@ -2,10 +2,10 @@
 layout: papers
 title: Auto-Annotation Papers
 nav_order: 1
-last_updated: 2025.12.10
+last_updated: 2025.12.11
 ---
 
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 > Usage instructions: [here](./README.md)
 
 ## Auto-Annotation & Annotation Automation
@@ -1392,7 +1392,7 @@ last_updated: 2025.12.10
 |**2025-12-08**|**AgentCrypt: Advancing Privacy and (Secure) Computation in AI Agent Collaboration**|Harish Karthikeyan et.al.|[2512.08104](http://arxiv.org/abs/2512.08104)||
 |**2025-12-08**|**Branching Fixed Effects: A Proposal for Communicating Uncertainty**|Patrick Kline et.al.|[2512.08101](http://arxiv.org/abs/2512.08101)||
 |**2025-12-08**|**Searches for Light Dark Matter and Evidence of Coherent Elastic Neutrino-Nucleus Scattering of Solar Neutrinos with the LUX-ZEPLIN (LZ) Experiment**|D. S. Akerib et.al.|[2512.08065](http://arxiv.org/abs/2512.08065)||
-|**2025-12-08**|**Measurement of inclusive $B \to X_u \ell ν$ partial branching fractions and $|V_{ub}|$ at Belle II**|Belle II Collaboration et.al.|[2512.08056](http://arxiv.org/abs/2512.08056)||
+|**2025-12-08**|**Measurement of inclusive $B \to X_u \ell ν$ partial branching fractions and $|V_{ub}|$ at Belle II**|Belle II Collaboration et.al.|
 |**2025-12-08**|**Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks**|Aileen Liao et.al.|[2512.07697](http://arxiv.org/abs/2512.07697)||
 |**2025-12-08**|**A Bootstrap Perspective on Stochastic Gradient Descent**|Hongjian Lan et.al.|[2512.07676](http://arxiv.org/abs/2512.07676)||
 |**2025-12-08**|**A Framework for Data Valuation and Monetisation**|Eduardo Vyhmeister et.al.|[2512.07664](http://arxiv.org/abs/2512.07664)||
