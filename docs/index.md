@@ -1355,9 +1355,9 @@ last_updated: 2025.12.14
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-11**|**SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model**|Yukai Shi et.al.|[2512.10957](http://arxiv.org/abs/2512.10957)|**[link](https://github.com/IDEA-Research/SceneMaker)**|
+|**2025-12-11**|**SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model**|Yukai Shi et.al.|[2512.10957](http://arxiv.org/abs/2512.10957)||
 |**2025-12-11**|**Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision**|Wentao Zhou et.al.|[2512.10956](http://arxiv.org/abs/2512.10956)||
-|**2025-12-11**|**E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training**|Qitao Zhao et.al.|[2512.10950](http://arxiv.org/abs/2512.10950)|**[link](https://github.com/QitaoZhao/E-RayZer)**|
+|**2025-12-11**|**E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training**|Qitao Zhao et.al.|[2512.10950](http://arxiv.org/abs/2512.10950)||
 |**2025-12-11**|**Digital Twin Supervised Reinforcement Learning Framework for Autonomous Underwater Navigation**|Zamirddine Mari et.al.|[2512.10925](http://arxiv.org/abs/2512.10925)||
 |**2025-12-11**|**PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning**|Jianqi Chen et.al.|[2512.10840](http://arxiv.org/abs/2512.10840)||
 |**2025-12-11**|**Video Depth Propagation**|Luigi Piccinelli et.al.|[2512.10725](http://arxiv.org/abs/2512.10725)||
@@ -1512,7 +1512,7 @@ last_updated: 2025.12.14
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-11**|**WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World**|Ao Liang et.al.|[2512.10958](http://arxiv.org/abs/2512.10958)||
+|**2025-12-11**|**WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World**|Ao Liang et.al.|[2512.10958](http://arxiv.org/abs/2512.10958)|**[link](https://github.com/worldbench/WorldLens)**|
 |**2025-12-11**|**Reinforcement Learning in Financial Decision Making: A Systematic Review of Performance, Challenges, and Implementation Strategies**|Mohammad Rezoanul Hoque et.al.|[2512.10913](http://arxiv.org/abs/2512.10913)||
 |**2025-12-11**|**MMSI-Video-Bench: A Holistic Benchmark for Video-Based Spatial Intelligence**|Jingli Lin et.al.|[2512.10863](http://arxiv.org/abs/2512.10863)||
 |**2025-12-11**|**Bayesian Symbolic Regression via Posterior Sampling**|Geoffrey F. Bomarito et.al.|[2512.10849](http://arxiv.org/abs/2512.10849)||
@@ -2472,7 +2472,7 @@ last_updated: 2025.12.14
 |**2025-12-11**|**ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning**|Wendi Chen et.al.|[2512.10946](http://arxiv.org/abs/2512.10946)||
 |**2025-12-11**|**Any4D: Unified Feed-Forward Metric 4D Reconstruction**|Jay Karhade et.al.|[2512.10935](http://arxiv.org/abs/2512.10935)||
 |**2025-12-11**|**Curriculum-Based Reinforcement Learning for Autonomous UAV Navigation in Unknown Curved Tubular Conduit**|Zamirddine Mari et.al.|[2512.10934](http://arxiv.org/abs/2512.10934)||
-|**2025-12-11**|**Decoupled Q-Chunking**|Qiyang Li et.al.|[2512.10926](http://arxiv.org/abs/2512.10926)||
+|**2025-12-11**|**Decoupled Q-Chunking**|Qiyang Li et.al.|[2512.10926](http://arxiv.org/abs/2512.10926)|**[link](https://github.com/ColinQiyangLi/dqc)**|
 |**2025-12-11**|**Digital Twin Supervised Reinforcement Learning Framework for Autonomous Underwater Navigation**|Zamirddine Mari et.al.|[2512.10925](http://arxiv.org/abs/2512.10925)||
 |**2025-12-11**|**Iterative Compositional Data Generation for Robot Control**|Anh-Quan Pham et.al.|[2512.10891](http://arxiv.org/abs/2512.10891)||
 |**2025-12-11**|**MMSI-Video-Bench: A Holistic Benchmark for Video-Based Spatial Intelligence**|Jingli Lin et.al.|[2512.10863](http://arxiv.org/abs/2512.10863)||
