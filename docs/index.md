@@ -16,9 +16,9 @@ last_updated: 2025.12.21
 |**2025-12-18**|**A multi-centre, multi-device benchmark dataset for landmark-based comprehensive fetal biometry**|Chiara Di Vece et.al.|[2512.16710](http://arxiv.org/abs/2512.16710)||
 |**2025-12-18**|**Exploiting Radio Frequency Fingerprints for Device Identification: Tackling Cross-receiver Challenges in the Source-data-free Scenario**|Liu Yang et.al.|[2512.16648](http://arxiv.org/abs/2512.16648)|**[link](https://github.com/YannLeo/MS-SHOT)**|
 |**2025-12-18**|**AI4EOSC: a Federated Cloud Platform for Artificial Intelligence in Scientific Research**|Ignacio Heredia et.al.|[2512.16455](http://arxiv.org/abs/2512.16455)||
-|**2025-12-18**|**Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models**|Xueqi Ma et.al.|[2512.16244](http://arxiv.org/abs/2512.16244)|**[link](https://github.com/sihuo-design/CFC)**|
+|**2025-12-18**|**Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models**|Xueqi Ma et.al.|[2512.16244](http://arxiv.org/abs/2512.16244)||
 |**2025-12-18**|**PDE-Agent: A toolchain-augmented multi-agent framework for PDE solving**|Jianming Liu et.al.|[2512.16214](http://arxiv.org/abs/2512.16214)||
-|**2025-12-17**|**Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift**|Jiacheng Cui et.al.|[2512.15647](http://arxiv.org/abs/2512.15647)||
+|**2025-12-17**|**Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift**|Jiacheng Cui et.al.|[2512.15647](http://arxiv.org/abs/2512.15647)|**[link](https://github.com/Jiacheng8/HALD)**|
 |**2025-12-17**|**The Moralization Corpus: Frame-Based Annotation and Analysis of Moralizing Speech Acts across Diverse Text Genres**|Maria Becker et.al.|[2512.15248](http://arxiv.org/abs/2512.15248)||
 |**2025-12-16**|**Artificial Intelligence for the Assessment of Peritoneal Carcinosis during Diagnostic Laparoscopy for Advanced Ovarian Cancer**|Riccardo Oliva et.al.|[2512.14797](http://arxiv.org/abs/2512.14797)||
 |**2025-12-16**|**TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs**|Jun Zhang et.al.|[2512.14698](http://arxiv.org/abs/2512.14698)||
