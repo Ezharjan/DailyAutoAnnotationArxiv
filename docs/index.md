@@ -71,7 +71,7 @@ last_updated: 2026.03.21
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-03-19**|**An Optimised Greedy-Weighted Ensemble Framework for Financial Loan Default Prediction**|Ezekiel Nii Noye Nortey et.al.|[2603.18927](http://arxiv.org/abs/2603.18927)||
-|**2026-03-19**|**ProCal: Probability Calibration for Neighborhood-Guided Source-Free Domain Adaptation**|Ying Zheng et.al.|[2603.18764](http://arxiv.org/abs/2603.18764)||
+|**2026-03-19**|**ProCal: Probability Calibration for Neighborhood-Guided Source-Free Domain Adaptation**|Ying Zheng et.al.|[2603.18764](http://arxiv.org/abs/2603.18764)|**[link](https://github.com/zhengyinghit/ProCal)**|
 |**2026-03-19**|**DA-Mamba: Learning Domain-Aware State Space Model for Global-Local Alignment in Domain Adaptive Object Detection**|Haochen Li et.al.|[2603.18757](http://arxiv.org/abs/2603.18757)||
 |**2026-03-19**|**Multimodal Model for Computational Pathology:Representation Learning and Image Compression**|Peihang Wu et.al.|[2603.18660](http://arxiv.org/abs/2603.18660)||
 |**2026-03-19**|**SwiftGS: Episodic Priors for Immediate Satellite Surface Recovery**|Rong Fu et.al.|[2603.18634](http://arxiv.org/abs/2603.18634)||
@@ -109,7 +109,7 @@ last_updated: 2026.03.21
 |**2026-03-19**|**ATG-MoE: Autoregressive trajectory generation with mixture-of-experts for assembly skill learning**|Weihang Huang et.al.|[2603.19029](http://arxiv.org/abs/2603.19029)||
 |**2026-03-19**|**A Human-in/on-the-Loop Framework for Accessible Text Generation**|Lourdes Moreno et.al.|[2603.18879](http://arxiv.org/abs/2603.18879)||
 |**2026-03-19**|**Data-driven construction of machine-learning-based interatomic potentials for gas-surface scattering dynamics: the case of NO on graphite**|Samuel Del Fré et.al.|[2603.18864](http://arxiv.org/abs/2603.18864)||
-|**2026-03-19**|**Memento-Skills: Let Agents Design Agents**|Huichi Zhou et.al.|[2603.18743](http://arxiv.org/abs/2603.18743)|**[link](https://github.com/Memento-Teams/Memento-Skills)**|
+|**2026-03-19**|**Memento-Skills: Let Agents Design Agents**|Huichi Zhou et.al.|[2603.18743](http://arxiv.org/abs/2603.18743)||
 |**2026-03-18**|**Shifting Uncertainty to Critical Moments: Towards Reliable Uncertainty Quantification for VLA Model**|Yanchuan Tang et.al.|[2603.18342](http://arxiv.org/abs/2603.18342)||
 |**2026-03-18**|**ALABI: Active Learning for Accelerated Bayesian Inference**|Jessica Birky et.al.|[2603.18259](http://arxiv.org/abs/2603.18259)||
 |**2026-03-18**|**Christoffel Adaptive Sampling for Sparse Random Feature Expansions**|Ben Adcock et.al.|[2603.18251](http://arxiv.org/abs/2603.18251)||
@@ -514,7 +514,7 @@ last_updated: 2026.03.21
 |**2026-03-19**|**Asynchronous-spectral fusion fluorescence microscopy for microsecond-scale behavioral dynamics**|Richard G. Baird et.al.|[2603.18365](http://arxiv.org/abs/2603.18365)||
 |**2026-03-18**|**LGESynthNet: Controlled Scar Synthesis for Improved Scar Segmentation in Cardiac LGE-MRI Imaging**|Athira J. Jacob et.al.|[2603.18356](http://arxiv.org/abs/2603.18356)||
 |**2026-03-18**|**Temperature in Glass Slides: measurement using Phase Sensitive Optical Coherence Tomography and Computational Modeling**|Jose M. Folgueiras et.al.|[2603.18226](http://arxiv.org/abs/2603.18226)||
-|**2026-03-18**|**AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception**|Jinho Park et.al.|[2603.17979](http://arxiv.org/abs/2603.17979)|**[link](https://github.com/jp4327/adaradar)**|
+|**2026-03-18**|**AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception**|Jinho Park et.al.|[2603.17979](http://arxiv.org/abs/2603.17979)||
 |**2026-03-18**|**The Sunrise Chromospheric Infrared Spectro-Polarimeter SCIP: an instrument for SUNRISE III**|Y. Katsukawa et.al.|[2603.17929](http://arxiv.org/abs/2603.17929)||
 |**2026-03-18**|**How do LLMs Compute Verbal Confidence**|Dharshan Kumaran et.al.|[2603.17839](http://arxiv.org/abs/2603.17839)||
 |**2026-03-18**|**Giant intrinsic dichroism in \b{eta}-Ga2O3 enables filter-free, high-fidelity polarization division multiplexing**|Yonghui Zhang et.al.|[2603.17814](http://arxiv.org/abs/2603.17814)||
@@ -629,7 +629,7 @@ last_updated: 2026.03.21
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-03-19**|**The structure and evolution of the Galactic high- $α$ disc I. Chemical and age orbital cartography**|Furkan Akbaba et.al.|[2603.19230](http://arxiv.org/abs/2603.19230)||
-|**2026-03-19**|**Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders**|Shang-Jui Ray Kuo et.al.|[2603.19209](http://arxiv.org/abs/2603.19209)|**[link](https://github.com/raykuo18/vlm-ssm-vision-encoders)**|
+|**2026-03-19**|**Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders**|Shang-Jui Ray Kuo et.al.|[2603.19209](http://arxiv.org/abs/2603.19209)||
 |**2026-03-19**|**Improving RCT-Based Treatment Effect Estimation Under Covariate Mismatch via Calibrated Alignment**|Amir Asiaee et.al.|[2603.19186](http://arxiv.org/abs/2603.19186)||
 |**2026-03-19**|**Quasinormal Modes of Extremal Reissner-Nordstrom Black Holes via Seiberg-Witten Quantization**|Yi-Rong Wang et.al.|[2603.19168](http://arxiv.org/abs/2603.19168)||
 |**2026-03-19**|**Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation**|Swagat Padhan et.al.|[2603.19166](http://arxiv.org/abs/2603.19166)||
