@@ -47,9 +47,9 @@
     "2603.19098": "|**2026-03-19**|**TAU-R1: Visual Language Model for Traffic Anomaly Understanding**|Yuqiang Lin et.al.|[2603.19098](http://arxiv.org/abs/2603.19098)||\n",
     "2603.19092": "|**2026-03-19**|**SAVeS: Steering Safety Judgments in Vision-Language Models via Semantic Cues**|Carlos Hinojosa et.al.|[2603.19092](http://arxiv.org/abs/2603.19092)||\n",
     "2603.19053": "|**2026-03-19**|**SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation**|Phuc Pham et.al.|[2603.19053](http://arxiv.org/abs/2603.19053)||\n",
-    "2603.19040": "|**2026-03-19**|**When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence**|Chen Yaoling et.al.|[2603.19040](http://arxiv.org/abs/2603.19040)||\n",
+    "2603.19040": "|**2026-03-19**|**When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence**|Chen Yaoling et.al.|[2603.19040](http://arxiv.org/abs/2603.19040)|**[link](https://github.com/HauLiang/DPWFL)**|\n",
     "2603.19039": "|**2026-03-19**|**TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation**|Yan Shu et.al.|[2603.19039](http://arxiv.org/abs/2603.19039)||\n",
-    "2603.19028": "|**2026-03-19**|**SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models**|Quentin Guimard et.al.|[2603.19028](http://arxiv.org/abs/2603.19028)||\n"
+    "2603.19028": "|**2026-03-19**|**SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models**|Quentin Guimard et.al.|[2603.19028](http://arxiv.org/abs/2603.19028)|**[link](https://github.com/Sparse-Embedding-Modulation/sparse-embedding-modulation.github.io)**|\n"
   },
   "Few-Shot & Zero-Shot Learning": {
     "2603.17919": "|**2026-03-18**|**Training Diffusion Language Models for Black-Box Optimization**|Zipeng Sun et.al.|[2603.17919](http://arxiv.org/abs/2603.17919)||\n",
@@ -68,7 +68,7 @@
     "2603.17209": "|**2026-03-17**|**A scalable neural bundle map for multiphysics prediction in lithium-ion battery across varying configurations**|Zhiwei Zhao et.al.|[2603.17209](http://arxiv.org/abs/2603.17209)||\n",
     "2603.17191": "|**2026-03-17**|**Tabular LLMs for Interpretable Few-Shot Alzheimer's Disease Prediction with Multimodal Biomedical Data**|Sophie Kearney et.al.|[2603.17191](http://arxiv.org/abs/2603.17191)||\n",
     "2603.18927": "|**2026-03-19**|**An Optimised Greedy-Weighted Ensemble Framework for Financial Loan Default Prediction**|Ezekiel Nii Noye Nortey et.al.|[2603.18927](http://arxiv.org/abs/2603.18927)||\n",
-    "2603.18764": "|**2026-03-19**|**ProCal: Probability Calibration for Neighborhood-Guided Source-Free Domain Adaptation**|Ying Zheng et.al.|[2603.18764](http://arxiv.org/abs/2603.18764)|**[link](https://github.com/zhengyinghit/ProCal)**|\n",
+    "2603.18764": "|**2026-03-19**|**ProCal: Probability Calibration for Neighborhood-Guided Source-Free Domain Adaptation**|Ying Zheng et.al.|[2603.18764](http://arxiv.org/abs/2603.18764)||\n",
     "2603.18757": "|**2026-03-19**|**DA-Mamba: Learning Domain-Aware State Space Model for Global-Local Alignment in Domain Adaptive Object Detection**|Haochen Li et.al.|[2603.18757](http://arxiv.org/abs/2603.18757)||\n",
     "2603.18660": "|**2026-03-19**|**Multimodal Model for Computational Pathology:Representation Learning and Image Compression**|Peihang Wu et.al.|[2603.18660](http://arxiv.org/abs/2603.18660)||\n",
     "2603.18634": "|**2026-03-19**|**SwiftGS: Episodic Priors for Immediate Satellite Surface Recovery**|Rong Fu et.al.|[2603.18634](http://arxiv.org/abs/2603.18634)||\n",
@@ -111,7 +111,7 @@
     "2603.18102": "|**2026-03-18**|**HWE-Bench: Can Language Models Perform Board-level Schematic Designs?**|Weibo Qiu et.al.|[2603.18102](http://arxiv.org/abs/2603.18102)||\n"
   },
   "3D Object Detection & LiDAR": {
-    "2603.17993": "|**2026-03-18**|**GMT: Goal-Conditioned Multimodal Transformer for 6-DOF Object Trajectory Synthesis in 3D Scenes**|Huajian Zeng et.al.|[2603.17993](http://arxiv.org/abs/2603.17993)||\n",
+    "2603.17993": "|**2026-03-18**|**GMT: Goal-Conditioned Multimodal Transformer for 6-DOF Object Trajectory Synthesis in 3D Scenes**|Huajian Zeng et.al.|[2603.17993](http://arxiv.org/abs/2603.17993)|**[link](https://github.com/huajian-zeng/gmt)**|\n",
     "2603.17980": "|**2026-03-18**|**Feeling the Space: Egomotion-Aware Video Representation for Efficient and Accurate 3D Scene Understanding**|Shuyao Shi et.al.|[2603.17980](http://arxiv.org/abs/2603.17980)||\n",
     "2603.17470": "|**2026-03-18**|**VirPro: Visual-referred Probabilistic Prompt Learning for Weakly-Supervised Monocular 3D Detection**|Chupeng Liu et.al.|[2603.17470](http://arxiv.org/abs/2603.17470)||\n",
     "2603.17159": "|**2026-03-17**|**BEV-SLD: Self-Supervised Scene Landmark Detection for Global Localization with LiDAR Bird's-Eye View Images**|David Skuddis et.al.|[2603.17159](http://arxiv.org/abs/2603.17159)||\n",
@@ -307,11 +307,11 @@
     "2603.17323": "|**2026-03-18**|**DexEXO: A Wearability-First Dexterous Exoskeleton for Operator-Agnostic Demonstration and Learning**|Alvin Zhu et.al.|[2603.17323](http://arxiv.org/abs/2603.17323)||\n",
     "2603.17301": "|**2026-03-18**|**WINFlowNets: Warm-up Integrated Networks Training of Generative Flow Networks for Robotics and Machine Fault Adaptation**|Zahin Sufiyan et.al.|[2603.17301](http://arxiv.org/abs/2603.17301)||\n",
     "2603.19196": "|**2026-03-19**|**Exploring the Role of Interaction Data to Empower End-User Decision-Making In UI Personalization**|Sérgio Alves et.al.|[2603.19196](http://arxiv.org/abs/2603.19196)||\n",
-    "2603.19098": "|**2026-03-19**|**TAU-R1: Visual Language Model for Traffic Anomaly Understanding**|Yuqiang Lin et.al.|[2603.19098](http://arxiv.org/abs/2603.19098)||\n",
+    "2603.19098": "|**2026-03-19**|**TAU-R1: Visual Language Model for Traffic Anomaly Understanding**|Yuqiang Lin et.al.|[2603.19098](http://arxiv.org/abs/2603.19098)|**[link](https://github.com/siri-rouser/TAU-R1)**|\n",
     "2603.19092": "|**2026-03-19**|**SAVeS: Steering Safety Judgments in Vision-Language Models via Semantic Cues**|Carlos Hinojosa et.al.|[2603.19092](http://arxiv.org/abs/2603.19092)||\n",
     "2603.19077": "|**2026-03-19**|**Multi-Modal Building Change Detection for Large-Scale Small Changes: Benchmark and Baseline**|Ye Wang et.al.|[2603.19077](http://arxiv.org/abs/2603.19077)||\n",
     "2603.19059": "|**2026-03-19**|**SignAgent: Agentic LLMs for Linguistically-Grounded Sign Language Annotation and Dataset Curation**|Oliver Cory et.al.|[2603.19059](http://arxiv.org/abs/2603.19059)||\n",
-    "2603.19028": "|**2026-03-19**|**SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models**|Quentin Guimard et.al.|[2603.19028](http://arxiv.org/abs/2603.19028)||\n",
+    "2603.19028": "|**2026-03-19**|**SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models**|Quentin Guimard et.al.|[2603.19028](http://arxiv.org/abs/2603.19028)|**[link](https://github.com/Sparse-Embedding-Modulation/sparse-embedding-modulation.github.io)**|\n",
     "2603.18985": "|**2026-03-19**|**Revisiting OmniAnomaly for Anomaly Detection: performance metrics and comparison with PCA-based models**|Bruna Alves et.al.|[2603.18985](http://arxiv.org/abs/2603.18985)||\n",
     "2603.18861": "|**2026-03-19**|**A Passive Elastic-Folding Mechanism for Stackable Airdrop Sensors**|Damyon Kim et.al.|[2603.18861](http://arxiv.org/abs/2603.18861)||\n",
     "2603.18853": "|**2026-03-19**|**Learn for Variation: Variationally Guided AAV Trajectory Learning in Differentiable Environments**|Xiucheng Wang et.al.|[2603.18853](http://arxiv.org/abs/2603.18853)||\n",
