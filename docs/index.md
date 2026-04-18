@@ -881,7 +881,7 @@ last_updated: 2026.04.18
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-16**|**RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework**|Hao Gao et.al.|[2604.15308](http://arxiv.org/abs/2604.15308)||
 |**2026-04-16**|**Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG**|Yiqun Sun et.al.|[2604.14572](http://arxiv.org/abs/2604.14572)||
-|**2026-04-16**|**Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors**|Mingqian Ji et.al.|[2604.14563](http://arxiv.org/abs/2604.14563)||
+|**2026-04-16**|**Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors**|Mingqian Ji et.al.|[2604.14563](http://arxiv.org/abs/2604.14563)|**[link](https://github.com/Mingqj/SEPatch3D)**|
 |**2026-04-15**|**CooperDrive: Enhancing Driving Decisions Through Cooperative Perception**|Deyuan Qu et.al.|[2604.14454](http://arxiv.org/abs/2604.14454)||
 |**2026-04-15**|**Temporally Consistent Long-Term Memory for 3D Single Object Tracking**|Jaejoon Yoo et.al.|[2604.13789](http://arxiv.org/abs/2604.13789)||
 |**2026-04-15**|**Efficient Multi-View 3D Object Detection by Dynamic Token Selection and Fine-Tuning**|Danish Nazir et.al.|[2604.13586](http://arxiv.org/abs/2604.13586)||
@@ -1229,7 +1229,7 @@ last_updated: 2026.04.18
 |**2026-04-16**|**Self-propelled particles driven by light**|Jannis Fischer et.al.|[2604.14918](http://arxiv.org/abs/2604.14918)||
 |**2026-04-16**|**Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors**|Mingqian Ji et.al.|[2604.14563](http://arxiv.org/abs/2604.14563)||
 |**2026-04-15**|**CooperDrive: Enhancing Driving Decisions Through Cooperative Perception**|Deyuan Qu et.al.|[2604.14454](http://arxiv.org/abs/2604.14454)||
-|**2026-04-15**|**HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds**|Team HY-World et.al.|[2604.14268](http://arxiv.org/abs/2604.14268)||
+|**2026-04-15**|**HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds**|Team HY-World et.al.|[2604.14268](http://arxiv.org/abs/2604.14268)|**[link](https://github.com/Tencent-Hunyuan/HY-World-2.0)**|
 |**2026-04-15**|**Neuromorphic Spiking Ring Attractor for Proprioceptive Joint-State Estimation**|Federica Ferrari et.al.|[2604.14021](http://arxiv.org/abs/2604.14021)||
 |**2026-04-15**|**Towards Multi-Object-Tracking with Radar on a Fast Moving Vehicle: On the Potential of Processing Radar in the Frequency Domain**|Tim Hansen et.al.|[2604.14013](http://arxiv.org/abs/2604.14013)||
 |**2026-04-15**|**Mosaic: An Extensible Framework for Composing Rule-Based and Learned Motion Planners**|Nick Le Large et.al.|[2604.13853](http://arxiv.org/abs/2604.13853)||

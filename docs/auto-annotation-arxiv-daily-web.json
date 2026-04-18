@@ -926,7 +926,7 @@
     "2604.13586": "|**2026-04-15**|**Efficient Multi-View 3D Object Detection by Dynamic Token Selection and Fine-Tuning**|Danish Nazir et.al.|[2604.13586](http://arxiv.org/abs/2604.13586)||\n",
     "2604.15308": "|**2026-04-16**|**RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework**|Hao Gao et.al.|[2604.15308](http://arxiv.org/abs/2604.15308)||\n",
     "2604.14572": "|**2026-04-16**|**Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG**|Yiqun Sun et.al.|[2604.14572](http://arxiv.org/abs/2604.14572)||\n",
-    "2604.14563": "|**2026-04-16**|**Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors**|Mingqian Ji et.al.|[2604.14563](http://arxiv.org/abs/2604.14563)||\n",
+    "2604.14563": "|**2026-04-16**|**Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors**|Mingqian Ji et.al.|[2604.14563](http://arxiv.org/abs/2604.14563)|**[link](https://github.com/Mingqj/SEPatch3D)**|\n",
     "2604.14454": "|**2026-04-15**|**CooperDrive: Enhancing Driving Decisions Through Cooperative Perception**|Deyuan Qu et.al.|[2604.14454](http://arxiv.org/abs/2604.14454)||\n"
   },
   "2D Object Detection & Segmentation": {
@@ -1429,7 +1429,7 @@
     "2604.14918": "|**2026-04-16**|**Self-propelled particles driven by light**|Jannis Fischer et.al.|[2604.14918](http://arxiv.org/abs/2604.14918)||\n",
     "2604.14563": "|**2026-04-16**|**Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors**|Mingqian Ji et.al.|[2604.14563](http://arxiv.org/abs/2604.14563)||\n",
     "2604.14454": "|**2026-04-15**|**CooperDrive: Enhancing Driving Decisions Through Cooperative Perception**|Deyuan Qu et.al.|[2604.14454](http://arxiv.org/abs/2604.14454)||\n",
-    "2604.14268": "|**2026-04-15**|**HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds**|Team HY-World et.al.|[2604.14268](http://arxiv.org/abs/2604.14268)||\n"
+    "2604.14268": "|**2026-04-15**|**HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds**|Team HY-World et.al.|[2604.14268](http://arxiv.org/abs/2604.14268)|**[link](https://github.com/Tencent-Hunyuan/HY-World-2.0)**|\n"
   },
   "Multi-Modal Learning & Fusion": {
     "2603.18004": "|**2026-03-18**|**Unified Spatio-Temporal Token Scoring for Efficient Video VLMs**|Jianrui Zhang et.al.|[2603.18004](http://arxiv.org/abs/2603.18004)||\n",
