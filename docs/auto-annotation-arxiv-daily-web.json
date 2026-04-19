@@ -926,7 +926,7 @@
     "2604.13586": "|**2026-04-15**|**Efficient Multi-View 3D Object Detection by Dynamic Token Selection and Fine-Tuning**|Danish Nazir et.al.|[2604.13586](http://arxiv.org/abs/2604.13586)||\n",
     "2604.15308": "|**2026-04-16**|**RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework**|Hao Gao et.al.|[2604.15308](http://arxiv.org/abs/2604.15308)||\n",
     "2604.14572": "|**2026-04-16**|**Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG**|Yiqun Sun et.al.|[2604.14572](http://arxiv.org/abs/2604.14572)||\n",
-    "2604.14563": "|**2026-04-16**|**Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors**|Mingqian Ji et.al.|[2604.14563](http://arxiv.org/abs/2604.14563)|**[link](https://github.com/Mingqj/SEPatch3D)**|\n",
+    "2604.14563": "|**2026-04-16**|**Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors**|Mingqian Ji et.al.|[2604.14563](http://arxiv.org/abs/2604.14563)||\n",
     "2604.14454": "|**2026-04-15**|**CooperDrive: Enhancing Driving Decisions Through Cooperative Perception**|Deyuan Qu et.al.|[2604.14454](http://arxiv.org/abs/2604.14454)||\n"
   },
   "2D Object Detection & Segmentation": {
@@ -1429,7 +1429,7 @@
     "2604.14918": "|**2026-04-16**|**Self-propelled particles driven by light**|Jannis Fischer et.al.|[2604.14918](http://arxiv.org/abs/2604.14918)||\n",
     "2604.14563": "|**2026-04-16**|**Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors**|Mingqian Ji et.al.|[2604.14563](http://arxiv.org/abs/2604.14563)||\n",
     "2604.14454": "|**2026-04-15**|**CooperDrive: Enhancing Driving Decisions Through Cooperative Perception**|Deyuan Qu et.al.|[2604.14454](http://arxiv.org/abs/2604.14454)||\n",
-    "2604.14268": "|**2026-04-15**|**HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds**|Team HY-World et.al.|[2604.14268](http://arxiv.org/abs/2604.14268)|**[link](https://github.com/Tencent-Hunyuan/HY-World-2.0)**|\n"
+    "2604.14268": "|**2026-04-15**|**HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds**|Team HY-World et.al.|[2604.14268](http://arxiv.org/abs/2604.14268)||\n"
   },
   "Multi-Modal Learning & Fusion": {
     "2603.18004": "|**2026-03-18**|**Unified Spatio-Temporal Token Scoring for Efficient Video VLMs**|Jianrui Zhang et.al.|[2603.18004](http://arxiv.org/abs/2603.18004)||\n",
@@ -4634,12 +4634,12 @@
     "2604.14052": "|**2026-04-15**|**From coupled $\\mathbb{Z}_3$ Rabi models to the $\\mathbb{Z}_3$ Potts model**|Anatoliy I. Lotkov et.al.|[2604.14052](http://arxiv.org/abs/2604.14052)||\n",
     "2604.14051": "|**2026-04-15**|**Enhancing Local Life Service Recommendation with Agentic Reasoning in Large Language Model**|Shiteng Cao et.al.|[2604.14051](http://arxiv.org/abs/2604.14051)||\n",
     "2604.14048": "|**2026-04-15**|**Free Geometry: Refining 3D Reconstruction from Longer Versions of Itself**|Yuhang Dai et.al.|[2604.14048](http://arxiv.org/abs/2604.14048)||\n",
-    "2604.15306": "|**2026-04-16**|**Generalization in LLM Problem Solving: The Case of the Shortest Path**|Yao Tong et.al.|[2604.15306](http://arxiv.org/abs/2604.15306)||\n",
+    "2604.15306": "|**2026-04-16**|**Generalization in LLM Problem Solving: The Case of the Shortest Path**|Yao Tong et.al.|[2604.15306](http://arxiv.org/abs/2604.15306)|**[link](https://github.com/privacytrustlab/PathGeneralization)**|\n",
     "2604.15301": "|**2026-04-16**|**Think in Latent Thoughts: A New Paradigm for Gloss-Free Sign Language Translation**|Yiyang Jiang et.al.|[2604.15301](http://arxiv.org/abs/2604.15301)||\n",
     "2604.15293": "|**2026-04-16**|**Borel--Bernstein and Hirst-type Theorems for Nearest-Integer Complex Continued Fractions over Euclidean Imaginary Quadratic Fields**|Kangrae Park et.al.|[2604.15293](http://arxiv.org/abs/2604.15293)||\n",
     "2604.15291": "|**2026-04-16**|**AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving**|Fabrizio Genilotti et.al.|[2604.15291](http://arxiv.org/abs/2604.15291)||\n",
     "2604.15287": "|**2026-04-16**|**Neutrino self-interactions in post-reionization era: Lyman-$α$, 21-cm and cross-spectra**|Sourav Pal et.al.|[2604.15287](http://arxiv.org/abs/2604.15287)||\n",
-    "2604.15271": "|**2026-04-16**|**SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation**|Tianhao Fu et.al.|[2604.15271](http://arxiv.org/abs/2604.15271)||\n",
+    "2604.15271": "|**2026-04-16**|**SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation**|Tianhao Fu et.al.|[2604.15271](http://arxiv.org/abs/2604.15271)|**[link](https://github.com/ProjectNeura/SegWithU)**|\n",
     "2604.15268": "|**2026-04-16**|**Assembling Extensive Quantum Fisher Information in Stabilizer Systems**|Arnau Lira-Solanilla et.al.|[2604.15268](http://arxiv.org/abs/2604.15268)||\n",
     "2604.15262": "|**2026-04-16**|**Detecting Regime Transitions in Dynamical Systems via the Mixup Euler Characteristic Profile**|Sushovan Majhi et.al.|[2604.15262](http://arxiv.org/abs/2604.15262)||\n",
     "2604.15233": "|**2026-04-16**|**Blue Data Intelligence Layer: Streaming Data and Agents for Multi-source Multi-modal Data-Centric Applications**|Moin Aminnaseri et.al.|[2604.15233](http://arxiv.org/abs/2604.15233)||\n",
