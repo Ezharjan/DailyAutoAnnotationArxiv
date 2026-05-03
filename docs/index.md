@@ -2,10 +2,10 @@
 layout: papers
 title: Auto-Annotation Papers
 nav_order: 1
-last_updated: 2026.05.02
+last_updated: 2026.05.03
 ---
 
-## Updated on 2026.05.02
+## Updated on 2026.05.03
 > Usage instructions: [here](./README.md)
 
 ## Auto-Annotation & Annotation Automation
@@ -204,11 +204,11 @@ last_updated: 2026.05.02
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)||
-|**2026-04-30**|**PhyCo: Learning Controllable Physical Priors for Generative Motion**|Sriram Narayanan et.al.|[2604.28169](http://arxiv.org/abs/2604.28169)||
+|**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|**[link](https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation)**|
+|**2026-04-30**|**PhyCo: Learning Controllable Physical Priors for Generative Motion**|Sriram Narayanan et.al.|[2604.28169](http://arxiv.org/abs/2604.28169)|**[link](https://github.com/phyco-video/phyco-video.github.io)**|
 |**2026-04-30**|**PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning**|Sudong Wang et.al.|[2604.28123](http://arxiv.org/abs/2604.28123)||
-|**2026-04-30**|**FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction**|Zeyu Jiang et.al.|[2604.28115](http://arxiv.org/abs/2604.28115)||
-|**2026-04-30**|**TransVLM: A Vision-Language Framework and Benchmark for Detecting Any Shot Transitions**|Ce Chen et.al.|[2604.27975](http://arxiv.org/abs/2604.27975)||
+|**2026-04-30**|**FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction**|Zeyu Jiang et.al.|[2604.28115](http://arxiv.org/abs/2604.28115)|**[link](https://github.com/the-masses/FreeOcc)**|
+|**2026-04-30**|**TransVLM: A Vision-Language Framework and Benchmark for Detecting Any Shot Transitions**|Ce Chen et.al.|[2604.27975](http://arxiv.org/abs/2604.27975)|**[link](https://github.com/chence17/TransVLM)**|
 |**2026-04-30**|**FineState-Bench: Benchmarking State-Conditioned Grounding for Fine-grained GUI State Setting**|Fengxian Ji et.al.|[2604.27974](http://arxiv.org/abs/2604.27974)||
 |**2026-04-30**|**From Mirage to Grounding: Towards Reliable Multimodal Circuit-to-Verilog Code Generation**|Guang Yang et.al.|[2604.27969](http://arxiv.org/abs/2604.27969)||
 |**2026-04-30**|**ClimateVID -- Social Media Videos Analysis and Challenges Involved**|Shiqi Xu et.al.|[2604.27968](http://arxiv.org/abs/2604.27968)||
@@ -585,9 +585,9 @@ last_updated: 2026.05.02
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-30**|**Towards Neuro-symbolic Causal Rule Synthesis, Verification, and Evaluation Grounded in Legal and Safety Principles**|Zainab Rehan et.al.|[2604.28087](http://arxiv.org/abs/2604.28087)||
-|**2026-04-30**|**Rethinking Agentic Reinforcement Learning In Large Language Models**|Fangming Cui et.al.|[2604.27859](http://arxiv.org/abs/2604.27859)|**[link](https://github.com/MiladInk/rethinkmarl)**|
+|**2026-04-30**|**Rethinking Agentic Reinforcement Learning In Large Language Models**|Fangming Cui et.al.|[2604.27859](http://arxiv.org/abs/2604.27859)||
 |**2026-04-30**|**Taming Noise-Induced Prototype Degradation for Privacy-Preserving Personalized Federated Fine-Tuning**|Yuhua Wang et.al.|[2604.27833](http://arxiv.org/abs/2604.27833)||
-|**2026-04-30**|**Auditing Frontier Vision-Language Models for Trustworthy Medical VQA: Grounding Failures, Format Collapse, and Domain Adaptation**|Xupeng Chen et.al.|[2604.27720](http://arxiv.org/abs/2604.27720)|**[link](https://github.com/ditmeroblox/Download)**|
+|**2026-04-30**|**Auditing Frontier Vision-Language Models for Trustworthy Medical VQA: Grounding Failures, Format Collapse, and Domain Adaptation**|Xupeng Chen et.al.|[2604.27720](http://arxiv.org/abs/2604.27720)||
 |**2026-04-30**|**Self-Supervised Learning of Plant Image Representations**|Ilyass Moummad et.al.|[2604.27538](http://arxiv.org/abs/2604.27538)||
 |**2026-04-30**|**Improving Graph Few-shot Learning with Hyperbolic Space and Denoising Diffusion**|Yonghao Liu et.al.|[2604.27462](http://arxiv.org/abs/2604.27462)||
 |**2026-04-30**|**ChipLingo: A Systematic Training Framework for Large Language Models in EDA**|Lei Li et.al.|[2604.27415](http://arxiv.org/abs/2604.27415)||
