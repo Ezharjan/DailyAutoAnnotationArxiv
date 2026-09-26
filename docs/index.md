@@ -2,10 +2,10 @@
 layout: papers
 title: Auto-Annotation Papers
 nav_order: 1
-last_updated: 2026.09.25
+last_updated: 2026.09.26
 ---
 
-## Updated on 2026.09.25
+## Updated on 2026.09.26
 > Usage instructions: [here](./README.md)
 
 ## Auto-Annotation & Annotation Automation
